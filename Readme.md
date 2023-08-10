@@ -2,20 +2,11 @@
 
 ## Descrição
 
-Este repositório está em construção. Aqui você encontrará [breve resumo do projeto ou curso] e seus componentes.
-
+Sistema solar com informações dos planetas e suas caracteristicas
 ## Conteúdo
 
 - [Instruções de Instalação](#instruções-de-instalação)
 - [Como Usar](#como-usar)
-
-## Instruções de Instalação
-
-Descreva aqui as instruções necessárias para configurar o ambiente de desenvolvimento e instalar quaisquer dependências.
-
-## Como Usar
-
-Explique como usar. Forneça exemplos de código, capturas de tela ou demonstrações.
 
 ## Contribuição
 
